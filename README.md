@@ -1,27 +1,21 @@
-# TÍTULO DO PROJETO
+![logo s fundo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t11-pmv-ads-2023-2-e2-proj-int-t11-grupo3/assets/126190493/0c6f09c5-63d3-4530-b13f-fba81aaa4f2a)
 
-`CURSO`
+`Análise E Desenvolvimento De Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`SEMESTRE`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+`Eixo 3`
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Atos dos Santos Pereira
+* Gabriel Batista Vieira
+* Giulia da Silva Brião
+* Rodrigo Soares de Oliveira
 
 ## Orientador
 
-* Nome completo do professor 1
-
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+* Sinaide Nunes
 
 # Documentação
 
