@@ -40,28 +40,29 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID       | Descrição do Requisito                                                                                                                                                     | Prioridade |
 |---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-|RF-001   | A homepage da aplicação deverá apresentar uma lista de itens de vestuário disponíveis, com suas respectivas imagens e descrições.                                          | ALTA       | 
-|RF-002   | Na homepage, logada ou não, deverá existir filtros de busca que permitirão ao usuário filtrar os anúncios por categorias como tipo de vestuário, tamanho, cor, entre outros. | ALTA       |
-|RF-003   | Usuários não registrados deverão ser capazes de visualizar os itens, mas para anunciar em anúncios a criação de uma conta ou login será requerido.                    | ALTA       |
-|RF-004   | Ao criar um anúncio, o usuário deverá fornecer informações do anúncio como valor, título, descrição, localidade, foto, tamanho, tipo de vestuário, condição (novo/usado), entre outros.         | ALTA       |
-|RF-005   | Cada anúncio deve mostrar claramente o nome do vendedor e dados de contato, além dos dados essenciais sobre aquele anúncio, de acordo com os informados na RF-004.                                                          | ALTA       |
-|RF-006   | O usuário logado deverá ter um painel pessoal onde poderá visualizar seus anúncios ativos.                                  | MÉDIA      |
-|RF-007   | O usuário logado deverá ter um painel pessoal onde poderá criar anúncios.                                  | MÉDIA      |
-|RF-008   | O usuário logado deverá ter um painel pessoal onde poderá gerenciar seus dados de perfil.                                  | MÉDIA      |
-|RF-009   | No painel pessoal, o usuário deve ter a opção de marcar um item como vendido, o que irá mover o anúncio da lista principal para uma lista específica de vendidos.          | ALTA       |
-|RF-010   | Ao visualizar um anúncio, o sistema apresentará sugestões de peças para o usuário advindas de anúncios pagos por empresas, baseando-se em categorias semelhantes.          | BAIXA      |
-|RF-011   | Os anúncios permitirão que usuários interajam por meio de comentários para que tirem dúvidas ou apenas expressem opiniões sobre as peças.                                  | BAIXA      |
+|RF-001   |A tela inicial do aplicativo deve apresentar uma lista de itens de vestuário disponíveis, com suas respectivas imagens, descrições e funcionalidade de scroll infinito para melhor navegação. | ALTA       | 
+|RF-002   | Na homepage, logada ou não, devem existir filtros de busca que permitam ao usuário filtrar os anúncios por categorias como tipo de vestuário, tamanho, cor, entre outros, com uma interface adaptada para telas sensíveis ao toque. | ALTA       |
+|RF-003   |Usuários não registrados deverão ser capazes de visualizar os itens, mas a criação de uma conta ou login será necessária para anunciar itens. A autenticação deve ser otimizada para dispositivos móveis, com opções de login social.	| ALTA       |
+|RF-004   |Ao criar um anúncio, o usuário poderá utilizar a câmera do dispositivo para tirar fotos do item e adicionar diretamente no anúncio, além de fornecer outras informações como valor, título, descrição, localidade, tamanho, tipo de vestuário, condição (novo/usado), entre outros.	 | ALTA       |
+|RF-005   |Cada anúncio deve mostrar claramente o nome do vendedor, dados de contato e informações essenciais sobre o anúncio, com um design adaptado para telas menores.	 | ALTA       |
+|RF-006   | O usuário logado deverá ter um painel pessoal onde poderá visualizar seus anúncios ativos, adaptado para navegação em smartphones.	| MÉDIA      |
+|RF-007   | O usuário logado deverá ter um painel pessoal onde poderá criar anúncios, com interface otimizada para dispositivos móveis. | MÉDIA      |
+|RF-008   |O usuário logado deverá ter um painel pessoal onde poderá gerenciar seus dados de perfil, com interface responsiva e intuitiva para dispositivos móveis. | MÉDIA      |
+|RF-009   | No painel pessoal, o usuário deve ter a opção de marcar um item como vendido, o que irá mover o anúncio da lista principal para uma lista específica de vendidos, com feedback visual claro no aplicativo móvel.	| ALTA       |
+|RF-010   | O aplicativo deve incluir uma tela de abertura (splash screen) com o logo e o nome do aplicativo, proporcionando uma experiência de marca agradável e profissional. | BAIXA      |
+|RF-011   |O aplicativo deve utilizar o GPS do dispositivo para filtrar anúncios com base na localização do usuário, oferecendo opções mais relevantes e personalizadas | BAIXA      |
 
 ### Requisitos não Funcionais
 
 |ID        | Descrição do Requisito                                                                                                                                                    | Prioridade |
 |----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-|RNF-001   | O sistema deve ser responsivo para rodar em variados dispositivos.                                                                                                        | ALTA       | 
+|RNF-001   | O aplicativo deve ser projetado com um design responsivo, assegurando compatibilidade e otimização de desempenho em uma ampla gama de dispositivos móveis e tamanhos de tela.	 | ALTA       | 
 |RNF-002   | Garantir a privacidade e segurança dos dados dos usuários.                                                                                                                | ALTA       |
-|RNF-003   | Deve processar requisições do usuário em no máximo 2s.                                                                                                                    | BAIXA      |
-|RNF-004   | Fornecer uma interface amigável e intuitiva.                                                                                                                              | MÉDIA      |
-|RNF-005   | Facilitar a integração com futuras atualizações.                                                                                                                          | BAIXA      |
-|RNF-006   | O sistema deverá fornecer feedbacks de ações para o usuário, como confirmações ou erros durante a interação.                                                              | MÉDIA      |
+|RNF-003   | O aplicativo deve processar e responder a requisições do usuário em no máximo 2 segundos, mantendo um desempenho eficiente em dispositivos móveis.	| BAIXA      |
+|RNF-004   | Oferecer uma interface de usuário amigável, intuitiva e adaptada para interação via toque, considerando as diretrizes de usabilidade para dispositivos móveis.	| MÉDIA      |
+|RNF-005   | O design e arquitetura do aplicativo devem facilitar a integração com futuras atualizações e novas funcionalidades, mantendo a compatibilidade com versões de sistemas operacionais móveis.	| BAIXA      |
+|RNF-006   | O sistema deverá fornecer feedbacks claros e imediatos de ações para o usuário, como confirmações, erros e estados de carregamento, de forma apropriada para dispositivos móveis.	| MÉDIA      |
+|RNF-007   | Implementar funcionalidades que economizem dados e bateria do dispositivo, otimizando o uso de recursos do aparelho móvel.	| MÉDIA      |
 
 ## Restrições
 
@@ -70,7 +71,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                                                                                                                                                                      |
 |--|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre.                                                                                                                                         |
-|02| Deverá ser desenvolvido um módulo de backend e frontend.                                                                                                                                       |
+|02| Deverá ser desenvolvido um módulo de backend e um mobile.                                                                                                                                       |
 |03| Não será possível realizar transações financeiras na plataforma.                                                                                                                               |
 
 ## Diagrama de Casos de Uso
