@@ -7,7 +7,7 @@ A compra e venda de roupas usadas não apenas oferecem uma alternativa acessíve
 
 ## Objetivos
 
-Desenvolver uma plataforma na qual os usuários possam anunciar peças de vestuário usadas, facilitando sua localização para que outros usuários interessados possam adquirir os itens de segunda mão.
+Desenvolver uma aplicação móvel na qual, os usuários possam anunciar peças de vestuário usadas, facilitando sua localização para que outros usuários interessados possam adquirir os itens de segunda mão.
 
 Como objetivos específicos, podemos ressaltar:
 
