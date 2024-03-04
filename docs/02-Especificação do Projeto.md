@@ -1,136 +1,81 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+O projeto Outra Chance é uma ferramenta útil para ajudar os usuários a vender e/ou comprar itens de vestuários usados, facilitando o contato entre os interessados.  
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+As personas levantadas durante o processo de entendimento do problema são apresentadas nas Figuras que se seguem. 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+![Persona1 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t11-pmv-ads-2023-2-e2-proj-int-t11-grupo3/assets/126190493/2fb42323-abbf-431a-8063-b9164d401294)
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+![Persona2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t11-pmv-ads-2023-2-e2-proj-int-t11-grupo3/assets/126190493/c5b9ec42-87fe-438a-8826-231d7b466c51)
+
+![Persona3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t11-pmv-ads-2023-2-e2-proj-int-t11-grupo3/assets/126190493/32a4b002-00e3-454c-9529-4b8dc388177a)
+
+![Persona4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t11-pmv-ads-2023-2-e2-proj-int-t11-grupo3/assets/126190493/2bd66e30-7559-47e4-8a3a-e88e77db135e)
+
+![Persona5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t11-pmv-ads-2023-2-e2-proj-int-t11-grupo3/assets/126190493/a83adb01-219e-4239-8c6a-e3022ee4e1ba)
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`|QUERO/DESEJO ... `O QUE`                                                                    |PARA ... `POR QUE`                                                                                          |
+|--------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+|Lilian Elizei       | uma fonte de renda extra                                                                   | para ajudar nas despesas de casa                                                                           |
+|Lilian Elizei       | revender roupas                                                                            | conseguir uma renda extra                                                                                  |
+|Joana Marques       | revender roupas sem tomar tanto tempo                                                      | para ajudar famílias carentes                                                                              | 
+|Ana Pereira         | renovar seu guarda-roupa de forma fácil e ecconômica                                       | melhorar a autoestima                                                                                      |
+|Ana Pereira         | vender roupas sem usa                                                                      | desapegar de itens que não combinam mais                                                                   |
+|Carla Montenegro    | aumentar o faturamento do seu brechó                                                       | adquirir novas peças para renovação do estoque                                                             |
+|Carla Montenegro    | encontrar uma plataforma de venda on line de vestuário usuado                              | encontrar maneiras mais eficazes para vender suas peças                                                    |
+|Lucas Oliveira      | encontrar roupas que reflitam suas personalidade, mantendo um estilo de compra sustentável | encontrar roupas que encaixem no seu orçamento, mas mantendo uma boa qualidade                             |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
-## Modelagem do Processo de Negócio 
-
-### Análise da Situação Atual
-
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
-
-### Descrição Geral da Proposta
-
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
-
-### Processo 1 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
-
-![Processo 1](img/02-bpmn-proc1.png)
-
-### Processo 2 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-![Processo 2](img/02-bpmn-proc2.png)
-
-## Indicadores de Desempenho
-
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
-
-Usar o seguinte modelo: 
-
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
-
+   
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
+As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID       | Descrição do Requisito                                                                                                                                                     | Prioridade |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+|RF-001   | A homepage da aplicação deverá apresentar uma lista de itens de vestuário disponíveis, com suas respectivas imagens e descrições.                                          | ALTA       | 
+|RF-002   | Na homepage, logada ou não, deverá existir filtros de busca que permitirão ao usuário filtrar os anúncios por categorias como tipo de vestuário, tamanho, cor, entre outros. | ALTA       |
+|RF-003   | Usuários não registrados deverão ser capazes de visualizar os itens, mas para anunciar em anúncios a criação de uma conta ou login será requerido.                    | ALTA       |
+|RF-004   | Ao criar um anúncio, o usuário deverá fornecer informações do anúncio como valor, título, descrição, localidade, foto, tamanho, tipo de vestuário, condição (novo/usado), entre outros.         | ALTA       |
+|RF-005   | Cada anúncio deve mostrar claramente o nome do vendedor e dados de contato, além dos dados essenciais sobre aquele anúncio, de acordo com os informados na RF-004.                                                          | ALTA       |
+|RF-006   | O usuário logado deverá ter um painel pessoal onde poderá visualizar seus anúncios ativos.                                  | MÉDIA      |
+|RF-007   | O usuário logado deverá ter um painel pessoal onde poderá criar anúncios.                                  | MÉDIA      |
+|RF-008   | O usuário logado deverá ter um painel pessoal onde poderá gerenciar seus dados de perfil.                                  | MÉDIA      |
+|RF-009   | No painel pessoal, o usuário deve ter a opção de marcar um item como vendido, o que irá mover o anúncio da lista principal para uma lista específica de vendidos.          | ALTA       |
+|RF-010   | Ao visualizar um anúncio, o sistema apresentará sugestões de peças para o usuário advindas de anúncios pagos por empresas, baseando-se em categorias semelhantes.          | BAIXA      |
+|RF-011   | Os anúncios permitirão que usuários interajam por meio de comentários para que tirem dúvidas ou apenas expressem opiniões sobre as peças.                                  | BAIXA      |
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|ID        | Descrição do Requisito                                                                                                                                                    | Prioridade |
+|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+|RNF-001   | O sistema deve ser responsivo para rodar em variados dispositivos.                                                                                                        | ALTA       | 
+|RNF-002   | Garantir a privacidade e segurança dos dados dos usuários.                                                                                                                | ALTA       |
+|RNF-003   | Deve processar requisições do usuário em no máximo 2s.                                                                                                                    | BAIXA      |
+|RNF-004   | Fornecer uma interface amigável e intuitiva.                                                                                                                              | MÉDIA      |
+|RNF-005   | Facilitar a integração com futuras atualizações.                                                                                                                          | BAIXA      |
+|RNF-006   | O sistema deverá fornecer feedbacks de ações para o usuário, como confirmações ou erros durante a interação.                                                              | MÉDIA      |
 
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|ID| Restrição                                                                                                                                                                                      |
+|--|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|01| O projeto deverá ser entregue até o final do semestre.                                                                                                                                         |
+|02| Deverá ser desenvolvido um módulo de backend e frontend.                                                                                                                                       |
+|03| Não será possível realizar transações financeiras na plataforma.                                                                                                                               |
 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+![Diagrama de Uso - Outra Chance](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t11-pmv-ads-2023-2-e2-proj-int-t11-grupo3/assets/75391453/638a32ba-53c4-40b6-b166-3d0b62e94a96)
 
 # Matriz de Rastreabilidade
 
