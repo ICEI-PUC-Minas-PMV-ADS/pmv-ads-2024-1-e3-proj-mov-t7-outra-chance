@@ -80,7 +80,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Matriz de Rastreabilidade
 
-![Uploading Matriz de rastreabilidade.png…]()
+![Matriz de rastreabilidade](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-outra-chance/assets/126190493/233c8574-5e0b-4b2a-823b-e1ddea56b292)
 
 # Gerenciamento de Projeto
 
