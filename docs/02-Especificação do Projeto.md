@@ -88,17 +88,14 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 O projeto levará 95 dias úteis para ser realizado, considerando o período de 02 de fevereiro a 23 de junho de 2024. Considerando 4h por dia útil trabalhadas, serão 380h no total.
 
-![Gráfico de Gantt](img/02-grafico-gantt.png)
-
 ## Gerenciamento de Equipe
 
 O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
 
-![Simple Project Timeline](img/02-project-timeline.png)
-
 ## Gestão de Orçamento
 
 |Vr. Hora |Qtd. horas|Subtotal    |Qtd. Devs |Vr. Total    | 
+|---------|----------|------------|----------|-------------|
 |R$ 20,00 |380       |R$ 7.600,00 |4         |R$ 30.400,00 |
 
-![Orçamento](img/02-orcamento.png)
+
