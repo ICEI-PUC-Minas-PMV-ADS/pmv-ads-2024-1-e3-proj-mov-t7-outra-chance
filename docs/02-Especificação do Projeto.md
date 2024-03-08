@@ -112,7 +112,8 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 ## Gestão de Orçamento
 
-
+O valor da hora do trabalho de um desenvolvedor de software foi estimada em R$20,00 com base nos cálculos sugeridos pelo artigo da DevMedia ([LINKAR O ARTIGO NO NOME DEVMEDIA](https://www.devmedia.com.br/quanto-vale-o-servico-de-um-programador-aprenda-a-cobrar-pelo-seu-trabalho/37214)). 
+Fazendo os cálculos, estima-se que o total do custo de um desenvolvedor ficará em torno de  R$7.600,00. Considerando que são 4 devs, o total é de R$ 30.400,00.
 
 
 |Recursos necessário | Valor       |
@@ -122,7 +123,6 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 |Licença Apple Store | R$ 489,00   |
 |Registro de patente | R$ 200,00   |
 
-*valor da hora calculado a partir do artigo "Quanto vale o serviço de um programador? Aprenda a cobrar pelo seu trabalho".
-**https://www.devmedia.com.br/quanto-vale-o-servico-de-um-programador-aprenda-a-cobrar-pelo-seu-trabalho/37214
+
 
 
