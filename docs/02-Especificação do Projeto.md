@@ -106,8 +106,11 @@ Publicação da aplicação em loja de aplicativos, permitir que os usuários an
 
 ## Gerenciamento de Equipe
 
-[O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
-](https://app.asana.com/api/1.0/projects/1206699599536563/tasks?opt_pretty&opt_expand=(this%7Csubtasks%2B))
+O gerenciamento de equipe está sendo feito através Asana.
+
+![Gerenciamento de Equipe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-outra-chance/assets/126190493/38ccec07-01e8-407d-a069-bc066426379f)
+
+LINK: https://app.asana.com/0/1206699599536563/1206799267913501
 
 ## Gestão de Orçamento
 
