@@ -112,6 +112,21 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 ## Gestão de Orçamento
 
+|Orçamento |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+|Recursos necessários | Valor| 
+|RF-002   | Na homepage, logada ou não, devem existir filtros de busca que permitam ao usuário filtrar os anúncios por categorias como tipo de vestuário, tamanho, cor, entre outros, com uma interface adaptada para telas sensíveis ao toque. | ALTA       |
+|RF-003   |Usuários não registrados deverão ser capazes de visualizar os itens, mas a criação de uma conta ou login será necessária para anunciar itens. A autenticação deve ser otimizada para dispositivos móveis, com opções de login social.	| ALTA       |
+|RF-004   |Ao criar um anúncio, o usuário poderá utilizar a câmera do dispositivo para tirar fotos do item e adicionar diretamente no anúncio, além de fornecer outras informações como valor, título, descrição, localidade, tamanho, tipo de vestuário, condição (novo/usado), entre outros.	 | ALTA       |
+|RF-005   |Cada anúncio deve mostrar claramente o nome do vendedor, dados de contato e informações essenciais sobre o anúncio, com um design adaptado para telas menores.	 | ALTA       |
+|RF-006   | O usuário logado deverá ter um painel pessoal onde poderá visualizar seus anúncios ativos, adaptado para navegação em smartphones.	| MÉDIA      |
+|RF-007   | O usuário logado deverá ter um painel pessoal onde poderá criar anúncios, com interface otimizada para dispositivos móveis. | MÉDIA      |
+|RF-008   |O usuário logado deverá ter um painel pessoal onde poderá gerenciar seus dados de perfil, com interface responsiva e intuitiva para dispositivos móveis. | MÉDIA      |
+|RF-009   | No painel pessoal, o usuário deve ter a opção de marcar um item como vendido, o que irá mover o anúncio da lista principal para uma lista específica de vendidos, com feedback visual claro no aplicativo móvel.	| ALTA       |
+|RF-010   | O aplicativo deve incluir uma tela de abertura (splash screen) com o logo e o nome do aplicativo, proporcionando uma experiência de marca agradável e profissional. | BAIXA      |
+|RF-011   |O aplicativo deve utilizar o GPS do dispositivo para filtrar anúncios com base na localização do usuário, oferecendo opções mais relevantes e personalizadas | BAIXA      |
+
+
 |Orçamento|
 |---------|
 |Recursos necessário|Valor|
