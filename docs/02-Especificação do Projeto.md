@@ -122,9 +122,11 @@ Fazendo os cálculos, estima-se que o total do custo de um desenvolvedor ficará
 |Recursos necessário | Valor       |
 |--------------------|-------------|
 |Desenvolvimento     | R$ 30.400,00|
-|Licença Play Store  | R$ 123,45   |
-|Licença Apple Store | R$ 489,00   |
-|Registro de patente | R$ 200,00   |
+|Licença Play Store  | U$25 - R$ 124,50 (Única vez)  |
+|Licença Apple Store | U$99 - R$ 493,02 (Anual)  |
+|Total | R$ 31.017,52  |
+
+
 
 
 
