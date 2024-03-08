@@ -114,13 +114,13 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 
 
-|Orçamento|
-|-------------------|-----|
-|Recursos necessário|Valor|
-|Desenvolvimento | R$ 30.400,00|
-|Licença Play Store | R$ 123,45|
-|Licença Apple Store | R$ 489,00|
-|Registro de patente | R$ 200,00|
+
+|Recursos necessário | Valor       |
+|--------------------|-------------|
+|Desenvolvimento     | R$ 30.400,00|
+|Licença Play Store  | R$ 123,45   |
+|Licença Apple Store | R$ 489,00   |
+|Registro de patente | R$ 200,00   |
 
 *valor da hora calculado a partir do artigo "Quanto vale o serviço de um programador? Aprenda a cobrar pelo seu trabalho".
 **https://www.devmedia.com.br/quanto-vale-o-servico-de-um-programador-aprenda-a-cobrar-pelo-seu-trabalho/37214
