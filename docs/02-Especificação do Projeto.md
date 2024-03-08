@@ -88,6 +88,22 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 O projeto levará 95 dias úteis para ser realizado, considerando o período de 02 de fevereiro a 23 de junho de 2024. Considerando 4h por dia útil trabalhadas, serão 380h no total.
 
+- Quais são as suas metas para o projeto, tanto interna como externamente?
+
+A meta interna é de entregar o projeto com no mínimo 80% dos requisitos funcionais sendo cumpridos. Externamente pretende-se entregar um projeto funcional ao cliente final - nos usuários - que poderão desfrutar de uma aplicação útil ao que se propõe: anunciar e comprar vestuários usados de forma fácil e objetiva.
+
+- Quais são os participantes internos e externos do projeto, e quais são as suas funções?
+
+Como internos estão os desenvolvedores (Giulia, Rodrigo, Gabriel e Atos) do projeto e como externos estão os usuários finais que usufruirão da aplicação.
+
+- Qual é o cronograma do projeto?
+
+Ele teve início no dia 02 de fevereiro e precisa estar finalizado até o dia 23 de junho.
+
+- Quais são os principais marcos do projeto?
+
+Publicação da aplicação em loja de aplicativos, permitir que os usuários anunciem vestuários para venda e possibilidade de conectar possíveis compradores aos anunciantes de interesse.
+
 ## Gerenciamento de Equipe
 
 O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
@@ -97,5 +113,8 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 |Vr. Hora |Qtd. horas|Subtotal    |Qtd. Devs |Vr. Total    | 
 |---------|----------|------------|----------|-------------|
 |R$ 20,00 |380       |R$ 7.600,00 |4         |R$ 30.400,00 |
+
+*valor da hora calculado a partir do artigo "Quanto vale o serviço de um programador? Aprenda a cobrar pelo seu trabalho".
+**https://www.devmedia.com.br/quanto-vale-o-servico-de-um-programador-aprenda-a-cobrar-pelo-seu-trabalho/37214
 
 
