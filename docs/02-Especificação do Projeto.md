@@ -106,7 +106,8 @@ Publicação da aplicação em loja de aplicativos, permitir que os usuários an
 
 ## Gerenciamento de Equipe
 
-O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
+[O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
+](https://app.asana.com/api/1.0/projects/1206699599536563/tasks?opt_pretty&opt_expand=(this%7Csubtasks%2B))
 
 ## Gestão de Orçamento
 
