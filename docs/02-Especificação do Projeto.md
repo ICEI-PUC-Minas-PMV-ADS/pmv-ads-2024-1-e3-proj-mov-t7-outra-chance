@@ -88,6 +88,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 O projeto levará 95 dias úteis para ser realizado, considerando o período de 02 de fevereiro a 23 de junho de 2024. Considerando 4h por dia útil trabalhadas, serão 380h no total.
 
+### Brief do projeto
+
 - Quais são as suas metas para o projeto, tanto interna como externamente?
 
 A meta interna é de entregar o projeto com no mínimo 80% dos requisitos funcionais sendo cumpridos. Externamente pretende-se entregar um projeto funcional ao cliente final - nos usuários - que poderão desfrutar de uma aplicação útil ao que se propõe: anunciar e comprar vestuários usados de forma fácil e objetiva.
