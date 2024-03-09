@@ -86,6 +86,17 @@ A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualizaç
 
 # Gerenciamento de Projeto
 
+|Tarefa | Duração | Início | Término|
+|-------|---------|--------|--------|
+|Etapa 1| 24 dias |01/02/24|10/03/24|
+|Etapa 2| 13 dias |11/03/24|31/03/24|
+|Etapa 3| 15 dias |01/04/24|21/04/24|
+|Etapa 4| 23 dias |22/04/24|26/05/24|
+|Etapa 5| 20 dias |27/05/24|23/06/24|
+|Total  | 95 dias |01/02/24|23/06/24|
+
+*está sendo considerado somente os dias úteis entre os períodos mostrados da tabela acima.
+
 ## Gerenciamento de Tempo
 
 ### Brief do projeto
