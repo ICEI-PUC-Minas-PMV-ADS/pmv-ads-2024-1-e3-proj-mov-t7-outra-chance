@@ -99,7 +99,7 @@ A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualizaç
 
 *está sendo considerado somente os dias úteis entre os períodos mostrados da tabela acima.
 
-### Brief do projeto
+## Brief do projeto
 
 - Quais são as suas metas para o projeto, tanto interna como externamente?
 
