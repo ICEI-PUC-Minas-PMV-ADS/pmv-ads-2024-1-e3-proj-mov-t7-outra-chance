@@ -132,7 +132,7 @@ O valor da hora do trabalho de um desenvolvedor de software foi estimada em R$20
 Fazendo os cálculos, estima-se que o total do custo de um desenvolvedor ficará em torno de  R$7.600,00. Considerando que são 4 devs, o total é de R$ 30.400,00.
 
 
-|Recursos necessário | Valor       |
+|Recursos necessários | Valor       |
 |--------------------|-------------|
 |Desenvolvimento     | R$ 30.400,00|
 |Licença Play Store  | U$25 - R$ 124,50 (Única vez)  |
